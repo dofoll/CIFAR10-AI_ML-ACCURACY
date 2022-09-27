@@ -1,6 +1,7 @@
 IMPROVING ON CIFAR-10 IMAGE CLASSIFICATION 
 ACCURACY USING CONVOLUTIONAL NEURAL NETWORK
 ( C N N )
+
 Image processing in recent years has become part of human daily lives, especially with the 
 exploding breakthrough in mobile technology with such computing power never before accessed. With 
 AI enabled devices image can be recognised. This interest is the motivation for the classification of 
